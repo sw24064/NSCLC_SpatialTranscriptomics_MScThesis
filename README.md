@@ -15,6 +15,7 @@ Step 3
 - Use ROI.py to perform localized analysis on the regions of interest.
 - Use GO.py to perform GO and GSEA enrichment analysis.
 - Use further_analyz.py to perform in-depth analysis on specific mixed clusters, such as reclustering and adjusting the resolution.
+- Use singleRpre to transpose the output file before importing it into R for annotation.
 - Use singleR.py to visualize the results of SingleR (SingleR is implemented in R and requires R version 4.3).
 - Use signature.py to perform signature analysis (Using signature.csv).
 - Use check_signature.py to analyze and visualize the signature results.
